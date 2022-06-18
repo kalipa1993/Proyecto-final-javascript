@@ -1,0 +1,76 @@
+[
+    {
+      "precio": 12990,
+      "id": 1,
+      "title": "Café",
+      "thumbnailUrl": "imagenes-productos/nescafe.jpeg"
+    },
+    {
+      "precio": 1090,
+      "id": 2,
+      "title": "Arroz Tucapel",
+      "thumbnailUrl": "imagenes-productos/arroz.jpeg"
+    },
+    {
+      "precio": 1790,
+      "id": 3,
+      "title": "Quix",
+      "thumbnailUrl": "imagenes-productos/quix.jpeg"
+    },
+    {
+      "precio": 1650,
+      "id": 4,
+      "title": "Energizante Monster",
+      "thumbnailUrl": "imagenes-productos/monster.jpeg"
+    },
+    {
+      "precio": 2890,
+      "id": 5,
+      "title": "Mayonesa Hellmans",
+      "thumbnailUrl": "imagenes-productos/mayo2.jpeg"
+    },
+    {
+      "precio": 2200,
+      "id": 6,
+      "title": "Chocolate Trencito",
+      "thumbnailUrl": "imagenes-productos/trencito.jpeg"
+    },
+    {
+        "precio": 2350,
+        "id": 7,
+        "title": "Confort 8 Unidades",
+        "thumbnailUrl": "imagenes-productos/confort.jpeg"
+      },
+      {
+        "precio": 1160,
+        "id": 8,
+        "title": "Azúcar Iansa",
+        "thumbnailUrl": "imagenes-productos/azucar.jpeg"
+      },
+      {
+        "precio": 2520,
+        "id": 9,
+        "title": "Mayonesa Tradicional",
+        "thumbnailUrl": "imagenes-productos/mayo.jpeg"
+      },
+      {
+        "precio": 28750,
+        "id": 10,
+        "title": "Whisky",
+        "thumbnailUrl": "imagenes-productos/whisky.jpeg"
+      },
+      {
+        "precio": 2800,
+        "id": 11,
+        "title": "Coca Cola Sin Azúcar",
+        "thumbnailUrl": "imagenes-productos/coca.jpeg"
+      },
+      {
+        "precio": 5890,
+        "id": 12,
+        "title": "Pisco Mistral",
+        "thumbnailUrl": "imagenes-productos/pisco.jpeg"
+      }
+      
+  ]
+  
